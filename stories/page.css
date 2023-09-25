@@ -23,7 +23,7 @@ section p {
 
 section a {
   text-decoration: none;
-  color: #1ea7fd;
+  color: #9523e7;
 }
 
 section ul {
@@ -42,16 +42,16 @@ section .tip {
   line-height: 12px;
   font-weight: 700;
   background: #e7fdd8;
-  color: #66bf3c;
+  color: #42a0ba;
   padding: 4px 12px;
-  margin-right: 10px;
+  margin-right: 30px;
   vertical-align: top;
 }
 
 section .tip-wrapper {
-  font-size: 13px;
+  font-size: 11px;
   line-height: 20px;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 40px;
 }
 
